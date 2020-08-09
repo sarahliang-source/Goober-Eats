@@ -1,2 +1,2 @@
 # Goober-Eats
-Generates turn-by-turn commands for food delivery in the LA area.
+Generates efficient turn-by-turn commands for food delivery requests in the LA area.
